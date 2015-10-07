@@ -1,4 +1,5 @@
 #BugMartiniAPI
+#Adam Knuckey November 2015
 
 import urllib,urllib2
 import re
