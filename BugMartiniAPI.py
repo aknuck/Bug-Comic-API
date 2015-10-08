@@ -7,7 +7,6 @@ import re
 # Downloads a comic from the given link to a given destination
 # Destination must be a name ending in .png
 def download(link,destination):
-	print link
 	urllib.urlretrieve(link,destination)
 
 # Returns a permalink to today's comic
